@@ -22,3 +22,9 @@ Selected Kubernetes 101 code samples borrowed from https://github.com/googlecode
 * Run curl again to force readiness to pass 
 * Wait 15 seconds
 * Run kubectl get and kubectl describe to verify the pod is ready again.
+
+## Update image on deployment
+
+* Use below command to update image on deployment
+`kubectl set image deployment/hello hello=kelseyhightower/hello:2.0.0`
+* Describe pods to view update events.
