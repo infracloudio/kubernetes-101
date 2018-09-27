@@ -1,3 +1,5 @@
+## <font color="red"> This repository is deprecated in favour of https://github.com/infracloudio/kubernetes-101-workshop </font>
+
 # kubernetes-101
 
 Selected Kubernetes 101 code samples borrowed from https://github.com/googlecodelabs/orchestrate-with-kubernetes
